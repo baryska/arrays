@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  max-width: 400px;
+}
+
+.obrazek-kontejner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
